@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kNz-vMp3)
+=== Backend
+
+Simple backend with json-server, to run it, just use the following commands
+
+=== Frontend
+
+Frontend developed with vue, using route protection and other methods.
+
+To run the code, run the following commands:
+
+```
+cd esideal
+npm i
+npm run dev
+```
