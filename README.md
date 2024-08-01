@@ -1,8 +1,8 @@
-=== Backend
+### Backend
 
 Simple backend with json-server, to run it, just use the following commands
 
-=== Frontend
+### Frontend
 
 Frontend developed with vue, using route protection and other methods.
 
